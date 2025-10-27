@@ -3,4 +3,4 @@ matplotlib==3.10.6
 numpy
 pandas
 seaborn
-sklearn
+scikit-learn
