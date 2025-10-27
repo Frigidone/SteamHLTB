@@ -10,14 +10,13 @@ dependencies:
   - brotli-python=1.0.9=py312hd77b12b_8
   - bzip2=1.0.8=h2bbff1b_6
   - ca-certificates=2025.9.9=haa95532_0
-  - certifi=2025.10.5=py312haa95532_0
+  - certifi=2025.8.3=py312haa95532_0
   - cffi=1.16.0=py312h2bbff1b_1
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
   - colorama=0.4.6=py312haa95532_0
   - conda=24.11.3=py312haa95532_0
   - conda-content-trust=0.2.0=py312haa95532_1
   - conda-libmamba-solver=24.7.0=pyhd3eb1b0_0
-  - conda-pack=0.8.1=py312haa95532_0
   - conda-package-handling=2.3.0=py312haa95532_0
   - conda-package-streaming=0.10.0=py312haa95532_0
   - console_shortcut_miniconda=0.1.1=haa95532_2
